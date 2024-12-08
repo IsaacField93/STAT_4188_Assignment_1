@@ -1,7 +1,7 @@
-My name is Isaac Field. I am majoring in Analytics and Information Management in the School of Business and doing a math minor. A fun fact about me is that I really like playing hackeysack/footbag.
+I’m an aspiring data scientist with an interest in using a blend of analysis and collaboration to move organizations forward. My ten years of experience in hospitality have taught me the importance of building teams based on trust. For the past four years, I’ve been a student and an intern, learning data analysis and mathematics.
 
-Regarding data science experience, I did a lot of very rushed work in Python's Pandas library this summer for my internship. In the beginning, I relied on ChatGPT HEAVILY. I also took two classes last semester in SQL. I'm hoping to eventually get a Masters in math or stats.
+I am passionate about the ways that data can be used to bring organizations together, align teams on similar goals, and deliver insights that can map out the future. I believe that, through a balance of analysis and human empathy, I can help organizations better achieve their goals.
 
-I am excited to learn more in this class!
+When I’m not studying or working, I love practicing Taekwon-Do, reading up on tech news, and engaging in lively debates over which cafe makes the best cup of coffee.
 
-Still  not seeing this on my github...
+Skills: Python, SQL, Excel
